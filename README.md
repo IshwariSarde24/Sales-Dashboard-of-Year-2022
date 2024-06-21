@@ -13,15 +13,15 @@ Modeling: Relationships and measures were defined to support interactive analysi
 
 **Features**
 
-*Sales Overview:* Summary of total sales, revenue, and profit.
-*Sales by Region:* Breakdown of sales performance across different regions.
-*Product Analysis:* Analysis of top-selling products and their contribution to revenue.
-*Time Series Analysis:* Trends in sales over time (daily, weekly, monthly).
-*Customer Segmentation:* Analysis of customer demographics and buying behavior.
+--*Sales Overview:* Summary of total sales, revenue, and profit.
+--*Sales by Region:* Breakdown of sales performance across different regions.
+--*Product Analysis:* Analysis of top-selling products and their contribution to revenue.
+--*Time Series Analysis:* Trends in sales over time (daily, weekly, monthly).
+--*Customer Segmentation:* Analysis of customer demographics and buying behavior.
 
 **Dashboard Components**
 
-*Home:* Overview of key metrics and highlights.
-*Sales by Region:* Map and charts showing sales distribution geographically.
-*Product Analysis:* Bar chart displaying top products by revenue.
-*Customer Segmentation:* Pie chart and table showing customer demographics.
+--*Home:* Overview of key metrics and highlights.
+--*Sales by Region:* Map and charts showing sales distribution geographically.
+--*Product Analysis:* Bar chart displaying top products by revenue.
+--*Customer Segmentation:* Pie chart and table showing customer demographics.
