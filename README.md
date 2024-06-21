@@ -1,6 +1,6 @@
-**# Sales-Dashboard-of-Year-2022**
+** Sales-Dashboard-of-Year-2022**
 
-**Overview*
+*Overview*
 
 This repository contains a Power BI dashboard designed to visualize and analyze sales data.
 The dashboard provides insights into key sales metrics and trends, helping stakeholders make informed decisions.
